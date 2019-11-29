@@ -1,0 +1,5 @@
+export const ADD_TODO='addtodo'
+export const DEL_TODO='deltodo'
+export const CHANGE_INPUT='changeinput'
+export const GET_TODO_LIST='gettodolist'
+export const GET_MYLIST='getmylist'
